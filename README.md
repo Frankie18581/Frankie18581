@@ -15,6 +15,7 @@
 | [obsidian-deepseek-translator](https://github.com/Frankie18581/obsidian-deepseek-translator) | Multi-provider AI translation plugin for Obsidian | TypeScript, 9+ LLM APIs |
 | [codepilot-pro](https://github.com/Frankie18581/codepilot-pro) | AI coding assistant with LangChain + FastAPI | Python, PostgreSQL, Docker |
 | [LLM_Auto_Agent](https://github.com/Frankie18581/LLM_Auto_Agent) | ReAct-pattern autonomous agent system | Python, LangChain |
+| [Hust-sudoku](https://github.com/Frankie18581/Hust-sudoku) | SAT-based Sudoku solver with GUI + Web game | C, Python, JavaScript |
 | [catTest](https://github.com/Frankie18581/catTest) | Interactive personality quiz (24 cat archetypes) | JavaScript, Tailwind CSS |
 | [MavisBlog](https://github.com/Frankie18581/MavisBlog) | Full-stack blog with MDX + Prisma | Next.js 16, PostgreSQL |
 
