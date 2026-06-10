@@ -1,14 +1,12 @@
-# 👋 Hi, I'm Frankie (冯健彤)
+# 👋 Hi, I'm Kintung.
 
 > 华中科技大学 | 计算机科学与技术 | 数据科学与大数据技术
 
 ## About Me
 
-- 🎓 **HUST** CS student, Big Data track (大数据2402班)
+- 🎓 **HUST** CS student, Big Data track
 - 🔭 Building AI-powered tools: Obsidian plugins, LLM agents, coding assistants
 - 🛠️ Tech stack: Python, TypeScript, C, FastAPI, Next.js, LangChain
-- 📝 Writing at [MavisBlog](https://github.com/Frankie18581/MavisBlog)
-- 🐱 Creator of the [24 Cat Personality Quiz](https://github.com/Frankie18581/catTest)
 
 ## Featured Projects
 
@@ -31,10 +29,5 @@ Custom AI agent skills for automated workflows:
 | [hermes-karpathy-kb](https://github.com/Frankie18581/hermes-karpathy-kb) | 自动建 Obsidian 知识库 |
 | [hermes-file-to-text](https://github.com/Frankie18581/hermes-file-to-text) | 文档转纯文本 |
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frankie18581&show_icons=true&theme=default)
 
----
-
-*Last updated: 2026-06*
