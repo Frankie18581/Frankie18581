@@ -29,6 +29,7 @@ Custom AI agent skills for automated workflows:
 | [hermes-ppt-lecture](https://github.com/Frankie18581/hermes-ppt-lecture) | PPT 课件逐段讲解 |
 | [hermes-karpathy-kb](https://github.com/Frankie18581/hermes-karpathy-kb) | 自动建 Obsidian 知识库 |
 | [hermes-file-to-text](https://github.com/Frankie18581/hermes-file-to-text) | 文档转纯文本 |
+| [resume-builder](https://github.com/Frankie18581/resume-builder) | HTML/CSS 简历生成 + STAR 最佳实践 |
 
 
 
